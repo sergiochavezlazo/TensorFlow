@@ -7,6 +7,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * Facilitated distributed training
 * TF Data
 * TF SavedModel
+Hola bodolazo
 * TensorFlow Hub
 * TensorFlow Serving
 * TensorFlow Lite
